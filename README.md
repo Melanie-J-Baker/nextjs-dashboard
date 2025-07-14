@@ -1,5 +1,5 @@
 ## Next.js App Router Course - Starter
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+An invoicing dashboard built using Next.js following a tutorial on the Next.js offical website. For more information, see the [course curriculum](https://nextjs.org/learn).
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Try it out here: nextjs-dashboard-7ie5d6kq1-melanie-j-bakers-projects.vercel.app
